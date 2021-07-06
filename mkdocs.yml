@@ -17,7 +17,7 @@ theme:
 
   # pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
   palette:
-    primary: 'deep orange'
+    primary: 'teal'
     accent: 'black'
   
   # fun logos! see https://material.io/icons/
